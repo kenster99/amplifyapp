@@ -1,0 +1,18 @@
+{
+  "trigger": true,
+  "modules": [
+    "captcha-verify"
+  ],
+  "parentResource": "amplifyapp325f298e",
+  "functionName": "amplifyapp325f298eVerifyAuthChallengeResponse",
+  "resourceName": "amplifyapp325f298eVerifyAuthChallengeResponse",
+  "parentStack": "auth",
+  "triggerEnvs": [],
+  "triggerDir": "C:\\Users\\kenst\\AppData\\Roaming\\npm\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-category-auth\\provider-utils\\awscloudformation\\triggers\\VerifyAuthChallengeResponse",
+  "triggerTemplate": "VerifyAuthChallengeResponse.json.ejs",
+  "triggerEventPath": "VerifyAuthChallengeResponse.event.json",
+  "roleName": "amplifyapp325f298eVerifyAuthChallengeResponse",
+  "skipEdit": true,
+  "RECAPTCHASECRET": "secret_key",
+  "enableCors": false
+}
